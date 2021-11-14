@@ -1,0 +1,2 @@
+(this.webpackJsonpvkbeconsulting=this.webpackJsonpvkbeconsulting||[]).push([[0],{10:function(n,e,t){"use strict";t.r(e);var c=t(1),s=t.n(c),i=t(3),o=t.n(i),r=(t(8),t(0)),u=function(){return Object(r.jsx)("div",{className:"App",children:Object(r.jsx)("h1",{children:"VKBE consulting"})})};o.a.render(Object(r.jsx)(s.a.StrictMode,{children:Object(r.jsx)(u,{})}),document.getElementById("root"))},8:function(n,e,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.3065e082.chunk.js.map
