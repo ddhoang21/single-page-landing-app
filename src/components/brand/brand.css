@@ -1,0 +1,88 @@
+.brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.brand div {
+    flex: 1;
+    max-width: 150px;
+    min-width: 120px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aws-logo {
+    font-size: 75px;
+}
+
+.cloud-logo {
+    font-size: 65px;
+}
+
+.azure-logo {
+    font-size: 55px;
+}
+
+@media screen and (max-width: 1050px) {
+
+    .aws-logo {
+        font-size: 65px;
+    }
+
+    .cloud-logo {
+        font-size: 55px;
+    }
+
+    .azure-logo {
+        font-size: 45px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+
+    .aws-logo {
+        font-size: 55px;
+    }
+
+    .cloud-logo {
+        font-size: 45px;
+    }
+
+    .azure-logo {
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+
+    .aws-logo {
+        font-size: 45px;
+    }
+
+    .cloud-logo {
+        font-size: 35px;
+    }
+
+    .azure-logo {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 453px) {
+
+    .aws-logo {
+        font-size: 35px;
+    }
+
+    .cloud-logo {
+        font-size: 25px;
+    }
+
+    .azure-logo {
+        font-size: 15px;
+    }
+}

@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 import { Header, About, Services, Team, Contact } from './containers';
-import { Navbar } from './components';
+import { Navbar, Brand } from './components';
 
 const App = () => {
   return (
@@ -11,6 +11,7 @@ const App = () => {
         <Navbar />
         <Header />
       </div>
+      <Brand />
       <About />
       <Services />
       <Team />
