@@ -1,0 +1,61 @@
+.team {
+    display: flex;
+    flex-direction: column;    
+}
+
+.team-heading {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 4rem;
+}
+
+.team-heading h1 {
+    text-align: center;
+    font-size: 55px;
+    line-height: 75px;
+    font-family: var(--font-family);
+    font-weight: 800;
+}
+
+.team-container {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+}
+
+@media screen and (max-width: 990px) {
+
+    .team-container {
+        flex-direction: column-reverse;
+    }
+
+    .team-container_biography  {
+       width: 48%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+
+    .team-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .team-container_biography  {
+       width: 100%;
+    }
+
+    .team-heading h1 {
+        font-size: 46px;
+        line-height: 52px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+
+    .team-heading h1 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+
+}
