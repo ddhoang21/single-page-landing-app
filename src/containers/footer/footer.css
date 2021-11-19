@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-footer);
+}
+
+.footer-copyright p {
+    font-size: 13px;
+    font-family: var(--font-family);
+    line-height: 15px;
+    color: #fff;
+}

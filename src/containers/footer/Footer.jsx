@@ -3,8 +3,10 @@ import './footer.css';
 
 const Footer = () => {
     return (
-        <div>
-            Footer
+        <div className='footer section__padding'>
+            <div className='footer-copyright'>
+                <p>@2021 VKBE Consulting. All rights reserved.</p>
+            </div>
         </div>
     )
 }
