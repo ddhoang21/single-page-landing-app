@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/single-page-landing-app/static/css/main.837af580.chunk.css",
-    "main.js": "/single-page-landing-app/static/js/main.8e48ad37.chunk.js",
-    "main.js.map": "/single-page-landing-app/static/js/main.8e48ad37.chunk.js.map",
+    "main.css": "/single-page-landing-app/static/css/main.c461c1c6.chunk.css",
+    "main.js": "/single-page-landing-app/static/js/main.e98f57a6.chunk.js",
+    "main.js.map": "/single-page-landing-app/static/js/main.e98f57a6.chunk.js.map",
     "runtime-main.js": "/single-page-landing-app/static/js/runtime-main.2bc03b4d.js",
     "runtime-main.js.map": "/single-page-landing-app/static/js/runtime-main.2bc03b4d.js.map",
     "static/js/2.147111f2.chunk.js": "/single-page-landing-app/static/js/2.147111f2.chunk.js",
     "static/js/2.147111f2.chunk.js.map": "/single-page-landing-app/static/js/2.147111f2.chunk.js.map",
     "index.html": "/single-page-landing-app/index.html",
-    "static/css/main.837af580.chunk.css.map": "/single-page-landing-app/static/css/main.837af580.chunk.css.map",
+    "static/css/main.c461c1c6.chunk.css.map": "/single-page-landing-app/static/css/main.c461c1c6.chunk.css.map",
     "static/js/2.147111f2.chunk.js.LICENSE.txt": "/single-page-landing-app/static/js/2.147111f2.chunk.js.LICENSE.txt",
     "static/media/background-illustration-02.e74ce3d3.png": "/single-page-landing-app/static/media/background-illustration-02.e74ce3d3.png",
     "static/media/vkbe-finallogo-02.ede6041e.png": "/single-page-landing-app/static/media/vkbe-finallogo-02.ede6041e.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.2bc03b4d.js",
     "static/js/2.147111f2.chunk.js",
-    "static/css/main.837af580.chunk.css",
-    "static/js/main.8e48ad37.chunk.js"
+    "static/css/main.c461c1c6.chunk.css",
+    "static/js/main.e98f57a6.chunk.js"
   ]
 }
